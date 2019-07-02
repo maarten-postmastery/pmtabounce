@@ -1,4 +1,4 @@
-# Postmastery PowerMTA Bounce Processing Addon
+# Interspire bounce processing addon for PowerMTA
 
 ## Description
 
@@ -93,8 +93,16 @@ Enable Postmastery Bounce Processing. Set Run Every from Disable to the required
 
 Press Save.
 
-## Monitoring
+### Monitoring
 
 The addon uses various status and error messages which can be viewed via Tools -> View Error Logs.
 
+## License
 
+Copyright (C) 2016-2019  Postmastery B.V.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://choosealicense.com/licenses/gpl-3.0/) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
