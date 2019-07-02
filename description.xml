@@ -1,0 +1,9 @@
+<addon_description>
+  <name>Postmastery PowerMTA Bounce Addon</name>
+  <description>Process bounces from PowerMTA accounting logs</description>
+  <author>Maarten Oelering</author>
+  <version>1.0</version>
+  <hasconfiguration>1</hasconfiguration>
+  <license>Commercial</license>
+  <licenseurl>http://postmastery.net</licenseurl>
+</addon_description>
